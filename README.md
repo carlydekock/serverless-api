@@ -5,7 +5,7 @@ Create a serverless REST API.
 ## Author: Carly Dekock
 
 ## Link to GitHub [repo](https://github.com/carlydekock/serverless-api.git)
-## Link to PR [here](https://github.com/carlydekock/serverless-api/pull/1)
+## Link to PR [here](https://github.com/carlydekock/serverless-api/pull/2)
 
 ## Feature Tasks
 
